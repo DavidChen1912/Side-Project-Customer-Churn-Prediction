@@ -1,0 +1,21 @@
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
+
+# Python virtual environments（完整擋法）
+venv/
+.venv/
+env/
+.env/
+
+# Model files（常見格式）
+*.pt
+*.bin
+*.h5
+*.ckpt
