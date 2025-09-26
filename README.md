@@ -15,7 +15,7 @@ The project pipeline includes:
 6. **Hyperparameter tuning** through cross-validation  
 7. **Model evaluation** with confusion matrix, Precision, Recall, and F1-score  
 
-The **full project pipeline and technical documentation** can be found in the [`/docs`](./docs) directory.
+The **full project pipeline and technical documentation** can be found in the [`/docs`](./docs) directory.  
 Dataset: [Telco Customer Churn – Kaggle](https://www.kaggle.com/datasets/blastchar/telco-customer-churn)
 
 ---
@@ -34,3 +34,4 @@ Run the following command in your terminal:
 ```
 python execute.py --data=Churn
 ```
+
